@@ -47,7 +47,7 @@ A project exploring test cases for AI-generated responses, factual accuracy, con
 
 I'm interested in quality engineering, test automation, and AI testing opportunities.
 
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/rohit-punjabi/
 - Email: rhp.rohit@gmail.com
 
 ---
