@@ -1,55 +1,47 @@
-# Hi, I'm a QA Engineer 👋
+# Hi, I'm Rohit 👋
+**QA Engineer | Test Automation | API & Performance Testing | AI Application Quality**
 
-**Quality Engineering | API Testing | Automation | AI Testing**
+I'm a QA Engineer with 4+ years of experience in software testing, including 2 years of hands-on test automation. I focus on delivering reliable, high-quality web and mobile applications, including AI-powered product features on edtech platforms.
 
-I'm a QA professional with 4+ years of experience in software quality assurance, primarily working on web applications, API testing, database validation, and AI-powered product features.
-
-I'm currently expanding my skills in test automation, Python, and AI quality evaluation to build more reliable and intelligent software systems.
+I'm continuing to deepen my skills in Playwright automation, Python, and AI/LLM quality evaluation.
 
 ## 👨‍💻 About Me
 
-- 🧪 Experienced in manual testing, functional testing, regression testing, and API testing and performance testing.
-- 🔌 Hands-on experience with Postman and API validation.
-- 🗄️ Experience with SQL and database testing.
-- 🤖 Interested in testing AI-powered applications, LLM outputs, and AI system reliability.
-- 🚀 Learning automation and AI engineering through practical projects.
-- 📚 Focused on building maintainable, real-world testing solutions.
+- 🤖 Built Playwright (JavaScript) end-to-end suites and Python scripts for API and webhook validation
+- 🔌 API testing with Postman and Python
+- ⚡ Performance and load testing with JMeter
+- 🗄️ SQL and database validation, including CRM data flow checks
+- 🔐 Authentication testing with AWS Cognito and analytics validation with GA4
+- 🧠 Led QA for an AI Mock Interview feature and interested in LLM output quality (accuracy, consistency, reliability)
 
 ## 🛠️ Technologies & Tools
 
-**Testing:** Manual Testing, Functional Testing, Regression Testing, API Testing, Performance Testing
-**API & Database:** Postman, SQL, PostgreSQL  
-**Automation & Programming:** Python, Playwright  
-**Tools & Practices:** Git, GitHub, JIRA, Agile/Scrum  
-**Exploring:** AI Testing, LLM Evaluation, Test Automation Frameworks
+- **Automation:** Playwright, JavaScript, Python
+- **API & Performance:** Postman, JMeter
+- **Database:** SQL
+- **Tools & Practices:** Git, GitHub, JIRA, Agile/Scrum
+- **Exploring:** LLM Evaluation, Test Automation Frameworks, CI/CD
 
-## 📂 Featured Projects
+## 📂 Featured Projects (in progress)
 
-### 1. API Testing & Automation
-A project to demonstrate API test scenarios, positive and negative testing, response validation, and automated regression checks.
+1. **API Testing & Automation:** Python-based API tests covering positive and negative scenarios, response validation, and regression checks
+2. **Web UI Automation Framework:** Playwright (JavaScript) project with reusable components, reliable locators, assertions, and reporting
+3. **AI Application Testing:** Test cases for AI-generated responses, covering accuracy, consistency, prompt robustness, and failure handling
 
-### 2. Web UI Automation Framework
-A practical automation project covering reusable test components, reliable locators, assertions, test organization, and reporting.
-
-### 3. AI Application Testing
-A project exploring test cases for AI-generated responses, factual accuracy, consistency, prompt robustness, and failure handling.
-
-*Project descriptions will be updated as each project is implemented and documented.*
+*Repositories will be added as each project is completed and documented.*
 
 ## 🎯 Current Learning Goals
 
-- Strengthen Python programming and problem-solving.
-- Build practical UI and API automation projects.
-- Learn systematic evaluation of AI-powered applications.
-- Improve test design, debugging, and CI/CD integration.
+- Strengthen Python programming and problem-solving
+- Build practical UI and API automation projects
+- Learn systematic evaluation of AI-powered applications
+- Integrate automated tests into CI/CD pipelines
 
 ## 🤝 Let's Connect
 
-I'm interested in quality engineering, test automation, and AI testing opportunities.
+I'm open to QA automation roles and quality engineering opportunities.
 
-- LinkedIn: https://www.linkedin.com/in/rohit-punjabi/
-- Email: rhp.rohit@gmail.com
-
----
+- LinkedIn: [rohit-punjabi](https://www.linkedin.com/in/rohit-punjabi/)
+- Email: [rhp.rohit@gmail.com](mailto:rhp.rohit@gmail.com)
 
 *Always learning. Always testing. Always improving.*
